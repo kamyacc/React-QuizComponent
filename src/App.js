@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './App.css'
-import Quiz from './Quiz.js';
+import Quiz from './Quiz';
 class App extends Component {
   render() {
     return (
@@ -9,4 +9,4 @@ class App extends Component {
   }
 }
 
-export default App
+export default App;
